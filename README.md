@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @conradhunter
+## 👋 Hi, I’m **@conradhunter**
 
-- My portfolio can be found here => http://www.conradhunterdev.com/
+I'm a 24 year old Full-Stack Developer from Australia. I am currently searching for a Full-Stack or Frontend Developer role with hybrid/remote work. You can contact me here => conrad@conradhunterdev.com
 
-- 👀 I’m interested in ...Creating user-friendly interfaces and helping to contribute to the ever growing digital world. I am currently searching for a Web Developer role with remote work. 
-- 
-- 📫 How to reach me ...conrad@conradhunterdev.com
+[My Portfolio](https://conradhunterdev.com/)
+
+My Tech Stack 
+- HTML
+- CSS
+- TailwindCSS
+- JavaScript
+- TypeScript
+- React
+- NextJS
+- NodeJS(Express)
+- SQL(PrismaORM)
+  
 
